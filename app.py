@@ -3,17 +3,14 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-# --- CONFIGURAÇÕES DE ACESSIBILIDADE E DESIGN (Tufte & Color-Blind Friendly) ---
-# Paleta de cores amigável para daltonismo (Colorblind-safe palette)
 ACCESSIBLE_PALETTE = ['#0072B2', '#D55E00', '#009E73', '#F0E442', '#CC79A7', '#56B4E9']
 
 st.set_page_config(
     layout="wide",
-    page_title="Dashboard Analítico de Vendas",
-    page_icon="📊"
+    page_title="Dashboard - Analfabetismo Infantil no Brasil (2025)",
+    page_icon="📚"
 )
 
-# Estilo customizado para reduzir Data-Ink Ratio (remover bordas desnecessárias, etc)
 st.markdown("""
     <style>
     .main { background-color: #FFFFFF; }
@@ -22,135 +19,114 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# --- CARREGAMENTO E TRATAMENTO DE DADOS ---
 @st.cache_data
 def load_data():
-    df = pd.read_csv('data/vendas.csv')
-    df['Data'] = pd.to_datetime(df['Data'])
+    df = pd.read_csv('data/analfabetismo_infantil_2025.csv')
     return df
 
 df = load_data()
 
-# --- ARQUITETURA DE INTERAÇÃO (Brushing & Linking) ---
-st.title("📊 Análise de Performance de Vendas")
-st.markdown("Interatividade coordenada: Utilize os filtros laterais para sincronizar todas as visões.")
+st.title("🇧🇷 Monitor de Analfabetismo Infantil no Brasil (2025)")
+st.markdown("Painel analítico coordenado para monitoramento das taxas de analfabetismo infantil por Estado, Região, Localização e Faixa Etária.")
 st.markdown("---")
 
-# Sidebar para Filtros Globais (Sincronização)
-st.sidebar.header("⚙️ Painel de Controle")
-st.sidebar.markdown("Filtre os dados para atualizar a visão coordenada.")
+# Sidebar - Global Filters
+st.sidebar.header("⚙️ Filtros Globais")
+st.sidebar.markdown("Selecione os parâmetros para atualizar as visões coordenadas.")
 
-# Filtro de Período (Visão Temporal)
-min_date = pd.to_datetime(df['Data'].min()).date()
-max_date = pd.to_datetime(df['Data'].max()).date()
-date_range = st.sidebar.date_input("Período de Análise", [min_date, max_date])
-
-# Filtro de Região (Visão Espacial/Regional)
 regioes = df['Regiao'].unique().tolist()
 regiao_sel = st.sidebar.multiselect("Regiões", options=regioes, default=regioes)
 
-# Filtro de Categoria (Visão Categórica)
-categorias = df['Categoria'].unique().tolist()
-cat_sel = st.sidebar.multiselect("Categorias", options=categorias, default=categorias)
+estados = df[df['Regiao'].isin(regiao_sel)]['Estado'].unique().tolist()
+estado_sel = st.sidebar.multiselect("Estados (UFs)", options=estados, default=estados)
 
-# Aplicação do Filtro Sincronizado (Brushing & Linking Global)
+localizacoes = df['Localizacao'].unique().tolist()
+local_sel = st.sidebar.multiselect("Localização", options=localizacoes, default=localizacoes)
+
+faixas = df['Faixa_Etaria'].unique().tolist()
+faixa_sel = st.sidebar.multiselect("Faixa Etária", options=faixas, default=faixas)
+
+# Filter mask
 mask = (
-    (df['Data'].dt.date >= pd.to_datetime(date_range[0]).date()) &
-    (df['Data'].dt.date <= pd.to_datetime(date_range[1]).date()) &
     (df['Regiao'].isin(regiao_sel)) &
-    (df['Categoria'].isin(cat_sel))
+    (df['Estado'].isin(estado_sel)) &
+    (df['Localizacao'].isin(local_sel)) &
+    (df['Faixa_Etaria'].isin(faixa_sel))
 )
 df_filtered = df.loc[mask]
 
-# --- VISUALIZAÇÕES COORDENADAS ---
-
-# 1. Camada de KPIs (Indicadores Rápidos)
+# --- KPIs ---
 kpi1, kpi2, kpi3, kpi4 = st.columns(4)
 with kpi1:
-    st.metric("Vendas Totais", f"R$ {df_filtered['Valor'].sum():,.2f}")
+    taxa_media = df_filtered['Taxa_Analfabetismo'].mean() if not df_filtered.empty else 0
+    st.metric("Taxa Média de Analfabetismo", f"{taxa_media:.2f}%")
 with kpi2:
-    st.metric("Ticket Médio", f"R$ {df_filtered['Valor'].mean():,.2f}")
+    total_criancas = df_filtered['Total_Criancas'].sum() if not df_filtered.empty else 0
+    st.metric("Total de Crianças Analisadas", f"{total_criancas:,}")
 with kpi3:
-    st.metric("Volume de Pedidos", f"{len(df_filtered)}")
+    total_nao_alf = df_filtered['Criancas_Nao_Alfabetizadas'].sum() if not df_filtered.empty else 0
+    st.metric("Crianças Não Alfabetizadas", f"{total_nao_alf:,}")
 with kpi4:
-    # Comparativo simples com o total geral para contexto
-    perc = (df_filtered['Valor'].sum() / df['Valor'].sum()) * 100
-    st.metric("Share do Total", f"{perc:.1f}%")
+    estados_criticos = df_filtered[df_filtered['Taxa_Analfabetismo'] > 10]['Estado'].nunique()
+    st.metric("UFs com Taxa > 10%", f"{estados_criticos}")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-# 2. Visão Temporal e Regional (Linha Superior)
+# --- GRÁFICOS COORDENADOS ---
 row1_col1, row1_col2 = st.columns([2, 1])
 
 with row1_col1:
-    st.subheader("📈 Evolução Temporal de Vendas")
-    df_time = df_filtered.groupby(df_filtered['Data'].dt.to_period('M')).sum(numeric_only=True).reset_index()
-    df_time['Data'] = df_time['Data'].astype(str)
-    fig_time = px.line(df_time, x='Data', y='Valor',
-                       color_discrete_sequence=[ACCESSIBLE_PALETTE[0]],
-                       title="Soma de Vendas por Mês")
-    fig_time.update_layout(
-        plot_bgcolor='white',
-        paper_bgcolor='white',
-        xaxis=dict(showgrid=False),
-        yaxis=dict(showgrid=True, gridcolor='#E9ECEF'),
-        title_x=0.05
-    )
-    st.plotly_chart(fig_time, use_container_width=True)
+    st.subheader("📊 Taxa Média de Analfabetismo por Estado (%)")
+    if not df_filtered.empty:
+        df_est = df_filtered.groupby('Estado')['Taxa_Analfabetismo'].mean().sort_values(ascending=True).reset_index()
+        fig_est = px.bar(df_est, x='Taxa_Analfabetismo', y='Estado', orientation='h',
+                         color='Taxa_Analfabetismo', color_continuous_scale='Reds',
+                         title="Taxa de Analfabetismo por UF (%)")
+        fig_est.update_layout(plot_bgcolor='white', paper_bgcolor='white', title_x=0.05, xaxis=dict(showgrid=True, gridcolor='#E9ECEF'))
+        st.plotly_chart(fig_est, use_container_width=True)
+    else:
+        st.warning("Nenhum dado para os filtros selecionados.")
 
 with row1_col2:
-    st.subheader("🗺️ Performance por Estado")
-    # Usando gráfico de barras ordenadas como substituto eficiente de mapa coroplético para clareza (Tufte)
-    est_df = df_filtered.groupby('Estado')['Valor'].sum().sort_values(ascending=True).reset_index()
-    fig_est = px.bar(est_df, x='Valor', y='Estado', orientation='h',
-                     color='Valor', color_continuous_scale=[ACCESSIBLE_PALETTE[0], ACCESSIBLE_PALETTE[1]],
-                     title="Total por UF")
-    fig_est.update_layout(
-        plot_bgcolor='white',
-        paper_bgcolor='white',
-        xaxis=dict(showgrid=False),
-        title_x=0.05
-    )
-    st.plotly_chart(fig_est, use_container_width=True)
+    st.subheader("📍 Por Localização (Urbana vs Rural)")
+    if not df_filtered.empty:
+        df_loc = df_filtered.groupby('Localizacao')['Criancas_Nao_Alfabetizadas'].sum().reset_index()
+        fig_loc = px.pie(df_loc, names='Localizacao', values='Criancas_Nao_Alfabetizadas',
+                         color_discrete_sequence=ACCESSIBLE_PALETTE,
+                         hole=0.4, title="Crianças Não Alfabetizadas")
+        fig_loc.update_layout(plot_bgcolor='white', paper_bgcolor='white', title_x=0.05)
+        st.plotly_chart(fig_loc, use_container_width=True)
+    else:
+        st.warning("Nenhum dado.")
 
-# 3. Visão Categórica e Cruzada (Linha Inferior)
 row2_col1, row2_col2 = st.columns([1, 2])
 
 with row2_col1:
-    st.subheader("📊 Distribuição por Categoria")
-    fig_cat = px.bar(df_filtered, x='Categoria', y='Valor', color='Categoria',
-                     color_discrete_sequence=ACCESSIBLE_PALETTE,
-                     title="Vendas por Categoria")
-    fig_cat.update_layout(
-        showlegend=False,
-        plot_bgcolor='white',
-        paper_bgcolor='white',
-        xaxis=dict(showgrid=False),
-        title_x=0.05
-    )
-    st.plotly_chart(fig_cat, use_container_width=True)
+    st.subheader("👶 Por Faixa Etária")
+    if not df_filtered.empty:
+        df_faixa = df_filtered.groupby('Faixa_Etaria')['Taxa_Analfabetismo'].mean().reset_index()
+        fig_faixa = px.bar(df_faixa, x='Faixa_Etaria', y='Taxa_Analfabetismo',
+                           color='Faixa_Etaria', color_discrete_sequence=ACCESSIBLE_PALETTE,
+                           title="Taxa Média por Idade")
+        fig_faixa.update_layout(showlegend=False, plot_bgcolor='white', paper_bgcolor='white', title_x=0.05)
+        st.plotly_chart(fig_faixa, use_container_width=True)
+    else:
+        st.warning("Nenhum dado.")
 
 with row2_col2:
-    st.subheader("🌡️ Intensidade Região x Categoria")
-    pivot_df = df_filtered.pivot_table(index='Regiao', columns='Categoria', values='Valor', aggfunc='sum').fillna(0)
-    fig_heat = px.imshow(pivot_df,
-                         text_auto='.2s',
-                         color_continuous_scale='Viridis', # Paleta percebida uniformemente
-                         title="Matriz de Calor de Vendas")
-    fig_heat.update_layout(
-        plot_bgcolor='white',
-        paper_bgcolor='white',
-        title_x=0.05
-    )
-    st.plotly_chart(fig_heat, use_container_width=True)
+    st.subheader("🌡️ Matriz de Calor: Região x Faixa Etária (Taxa Média %)")
+    if not df_filtered.empty:
+        pivot_heat = df_filtered.pivot_table(index='Regiao', columns='Faixa_Etaria', values='Taxa_Analfabetismo', aggfunc='mean').fillna(0)
+        fig_heat = px.imshow(pivot_heat, text_auto='.1f', color_continuous_scale='OrRd',
+                             title="Taxa Média por Região e Faixa Etária")
+        fig_heat.update_layout(plot_bgcolor='white', paper_bgcolor='white', title_x=0.05)
+        st.plotly_chart(fig_heat, use_container_width=True)
+    else:
+        st.warning("Nenhum dado.")
 
 st.markdown("---")
+st.subheader("📄 Detalhamento dos Dados Estaduais (2025)")
+st.dataframe(df_filtered, use_container_width=True)
 
-# 4. Detalhamento sob Demanda
-st.subheader("📄 Detalhamento dos Registros")
-st.markdown("Tabela filtrada dinamicamente com base nas seleções acima.")
-st.dataframe(df_filtered.sort_values(by='Data', ascending=False), use_container_width=True)
-
-# Mensagem de ausência de dados
 if df_filtered.empty:
-    st.warning("⚠️ Nenhum dado encontrado para os filtros selecionados. Tente ajustar os parâmetros na barra lateral.")
+    st.warning("⚠️ Nenhum registro encontrado para a combinação de filtros selecionada.")
