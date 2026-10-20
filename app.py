@@ -41,8 +41,8 @@ st.sidebar.header("⚙️ Painel de Controle")
 st.sidebar.markdown("Filtre os dados para atualizar a visão coordenada.")
 
 # Filtro de Período (Visão Temporal)
-min_date = df['Data'].min().to_datetime_64() if hasattr(df['Data'], 'min') else df['Data'].min()
-max_date = df['Data'].max().to_datetime_64() if hasattr(df['Data'], 'max') else df['Data'].max()
+min_date = pd.to_datetime(df['Data'].min()).date()
+max_date = pd.to_datetime(df['Data'].max()).date()
 date_range = st.sidebar.date_input("Período de Análise", [min_date, max_date])
 
 # Filtro de Região (Visão Espacial/Regional)
