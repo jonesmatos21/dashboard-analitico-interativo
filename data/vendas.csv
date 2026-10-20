@@ -1,0 +1,1001 @@
+Data,Regiao,Estado,Categoria,Valor
+2023-12-04,Nordeste,PI,Alimentos,677.8
+2023-12-19,Sul,RS,Beleza,3445.52
+2023-11-21,Norte,PA,Beleza,2585.08
+2023-09-19,Nordeste,RN,Beleza,2805.35
+2023-06-02,Sul,SC,Vestuário,1503.3
+2023-06-29,Sudeste,SP,Casa e Jardim,346.93
+2023-08-25,Sudeste,RJ,Casa e Jardim,2007.76
+2023-03-21,Norte,RO,Casa e Jardim,4481.28
+2023-01-19,Sudeste,RJ,Alimentos,3195.65
+2023-05-10,Sudeste,ES,Casa e Jardim,3170.97
+2023-08-08,Sudeste,RJ,Alimentos,3458.94
+2023-09-02,Sudeste,RJ,Beleza,3459.49
+2023-06-19,Norte,PA,Casa e Jardim,3359.5
+2023-04-03,Nordeste,BA,Vestuário,166.91
+2023-10-14,Sul,RS,Eletrônicos,1828.99
+2023-11-24,Sul,PR,Casa e Jardim,4242.98
+2023-01-16,Norte,AC,Eletrônicos,2772.58
+2023-11-25,Norte,AM,Eletrônicos,2611.77
+2023-07-01,Nordeste,PI,Eletrônicos,921.68
+2023-11-09,Norte,RR,Eletrônicos,4929.54
+2023-01-09,Sudeste,RJ,Alimentos,1249.95
+2023-03-15,Centro-Oeste,GO,Eletrônicos,2581.37
+2023-02-13,Nordeste,AL,Casa e Jardim,4831.01
+2023-12-25,Sul,RS,Alimentos,3332.63
+2023-05-31,Sul,PR,Beleza,599.47
+2023-12-24,Sul,SC,Vestuário,735.8
+2023-05-10,Norte,TO,Alimentos,871.23
+2023-04-11,Sudeste,RJ,Alimentos,2881.0
+2023-05-18,Centro-Oeste,GO,Casa e Jardim,2076.94
+2023-02-20,Norte,AM,Beleza,2636.31
+2023-07-04,Sudeste,RJ,Alimentos,3483.67
+2023-04-16,Sul,PR,Vestuário,387.36
+2023-04-12,Centro-Oeste,DF,Beleza,2203.89
+2023-12-23,Sul,SC,Vestuário,987.71
+2023-06-26,Sul,RS,Vestuário,3161.42
+2023-02-20,Sudeste,MG,Vestuário,4220.64
+2023-03-01,Sudeste,ES,Alimentos,1286.03
+2023-08-18,Centro-Oeste,GO,Vestuário,2612.07
+2023-10-13,Sudeste,RJ,Casa e Jardim,4120.12
+2023-03-10,Sudeste,RJ,Eletrônicos,3829.59
+2023-09-16,Centro-Oeste,DF,Beleza,1901.64
+2023-04-03,Norte,PA,Alimentos,1442.28
+2023-06-25,Sul,PR,Casa e Jardim,2818.78
+2023-06-28,Nordeste,AL,Alimentos,381.05
+2023-05-19,Centro-Oeste,GO,Vestuário,4169.76
+2023-09-06,Sul,PR,Alimentos,4536.78
+2023-07-02,Centro-Oeste,GO,Alimentos,1665.72
+2023-11-28,Nordeste,SE,Vestuário,3181.16
+2023-09-19,Centro-Oeste,MT,Alimentos,526.27
+2023-09-05,Sul,RS,Beleza,772.13
+2023-07-18,Sul,RS,Vestuário,3327.84
+2023-11-14,Sul,SC,Eletrônicos,2255.92
+2023-09-11,Nordeste,AL,Vestuário,393.19
+2023-01-20,Nordeste,AL,Vestuário,204.44
+2023-03-13,Nordeste,MA,Beleza,216.77
+2023-04-17,Nordeste,CE,Eletrônicos,4690.32
+2023-01-09,Centro-Oeste,DF,Vestuário,2281.35
+2023-05-19,Centro-Oeste,GO,Eletrônicos,827.1
+2023-08-16,Sudeste,ES,Casa e Jardim,3359.1
+2023-12-17,Norte,RR,Casa e Jardim,3551.68
+2023-12-31,Nordeste,AL,Beleza,4066.32
+2023-09-16,Norte,PA,Vestuário,852.93
+2023-12-26,Sudeste,SP,Alimentos,1534.26
+2023-08-15,Sul,PR,Beleza,4576.56
+2023-05-13,Norte,PA,Eletrônicos,1129.91
+2023-10-07,Sudeste,RJ,Eletrônicos,3299.14
+2023-09-06,Sudeste,ES,Beleza,588.9
+2023-12-07,Nordeste,PE,Alimentos,4011.96
+2023-09-06,Centro-Oeste,MT,Casa e Jardim,3978.02
+2023-05-04,Centro-Oeste,DF,Alimentos,4125.31
+2023-01-11,Sul,PR,Casa e Jardim,2602.02
+2023-08-27,Sul,RS,Alimentos,4381.59
+2023-11-18,Norte,AP,Eletrônicos,3917.76
+2023-07-10,Sul,SC,Eletrônicos,3686.37
+2023-04-09,Sudeste,SP,Eletrônicos,3885.6
+2023-03-25,Sudeste,ES,Casa e Jardim,2913.09
+2023-08-05,Nordeste,RN,Vestuário,4321.28
+2023-09-23,Nordeste,SE,Alimentos,4213.3
+2023-06-16,Centro-Oeste,MT,Beleza,4999.78
+2023-03-02,Sul,RS,Alimentos,696.07
+2023-04-09,Norte,RO,Beleza,2704.6
+2023-11-24,Nordeste,BA,Eletrônicos,1441.48
+2023-10-09,Sudeste,RJ,Casa e Jardim,989.84
+2023-08-03,Sudeste,ES,Alimentos,4933.17
+2023-10-20,Nordeste,PB,Casa e Jardim,3522.78
+2023-01-05,Norte,AC,Vestuário,1724.8
+2023-07-14,Centro-Oeste,MS,Vestuário,506.71
+2023-11-03,Sul,PR,Beleza,2521.83
+2023-12-29,Centro-Oeste,MT,Alimentos,2000.01
+2023-07-20,Norte,AP,Eletrônicos,2256.32
+2023-04-25,Sudeste,MG,Alimentos,2219.73
+2023-10-08,Sul,RS,Eletrônicos,2739.86
+2023-12-31,Centro-Oeste,GO,Casa e Jardim,1205.87
+2023-01-08,Sul,RS,Casa e Jardim,4212.13
+2023-03-19,Nordeste,PB,Eletrônicos,1368.36
+2023-01-25,Sudeste,SP,Vestuário,138.21
+2023-07-25,Sudeste,MG,Alimentos,3659.11
+2023-04-13,Norte,AP,Alimentos,1688.17
+2023-05-04,Centro-Oeste,MS,Eletrônicos,2343.54
+2023-06-17,Norte,AM,Beleza,561.25
+2023-11-15,Norte,AM,Beleza,2412.73
+2023-05-16,Sul,RS,Alimentos,465.06
+2023-05-25,Sul,PR,Vestuário,3832.39
+2023-12-18,Sul,RS,Vestuário,1705.86
+2023-04-02,Sudeste,RJ,Vestuário,375.69
+2023-08-28,Sul,PR,Vestuário,2428.14
+2023-05-08,Sudeste,MG,Beleza,3828.06
+2023-11-21,Nordeste,BA,Beleza,3336.49
+2023-05-12,Centro-Oeste,DF,Vestuário,218.25
+2023-07-26,Norte,AC,Eletrônicos,4822.8
+2023-01-21,Nordeste,MA,Eletrônicos,3614.96
+2023-06-12,Sudeste,SP,Eletrônicos,301.35
+2023-10-04,Norte,AP,Casa e Jardim,1602.72
+2023-12-21,Nordeste,PB,Alimentos,141.59
+2023-08-29,Nordeste,SE,Vestuário,2972.43
+2023-02-27,Nordeste,SE,Eletrônicos,3494.9
+2023-12-06,Centro-Oeste,DF,Beleza,1699.64
+2023-02-12,Sul,SC,Vestuário,1740.24
+2023-03-13,Sul,RS,Casa e Jardim,621.26
+2023-10-03,Nordeste,CE,Alimentos,2036.12
+2023-10-07,Sudeste,RJ,Alimentos,3029.82
+2023-10-22,Nordeste,CE,Vestuário,2564.92
+2023-01-07,Sudeste,MG,Alimentos,661.47
+2023-12-30,Sudeste,SP,Beleza,420.91
+2023-02-15,Norte,RR,Alimentos,261.72
+2023-05-20,Nordeste,AL,Eletrônicos,625.92
+2023-04-05,Nordeste,PI,Alimentos,1740.73
+2023-03-20,Nordeste,PE,Eletrônicos,3653.28
+2023-02-06,Sudeste,SP,Casa e Jardim,4333.76
+2023-08-09,Nordeste,MA,Eletrônicos,1501.0
+2023-08-12,Sul,RS,Beleza,2198.87
+2023-11-22,Sul,RS,Beleza,4005.71
+2023-12-29,Sudeste,RJ,Alimentos,4512.52
+2023-05-29,Sul,PR,Eletrônicos,2994.46
+2023-09-23,Sudeste,MG,Vestuário,1271.34
+2023-03-18,Sul,RS,Vestuário,1521.61
+2023-02-19,Norte,AP,Beleza,4384.28
+2023-03-28,Centro-Oeste,MT,Casa e Jardim,233.43
+2023-03-12,Norte,AC,Alimentos,4710.89
+2023-05-11,Nordeste,MA,Vestuário,2549.84
+2023-10-18,Norte,PA,Eletrônicos,4677.48
+2023-09-12,Sul,RS,Vestuário,3994.05
+2023-04-16,Norte,AC,Vestuário,1350.17
+2023-04-18,Centro-Oeste,MS,Eletrônicos,2019.78
+2023-11-28,Sul,PR,Alimentos,3246.72
+2023-12-19,Sul,RS,Alimentos,1252.86
+2023-04-12,Sul,SC,Alimentos,4594.35
+2023-01-20,Nordeste,RN,Alimentos,2688.89
+2023-01-25,Sul,RS,Beleza,3633.58
+2023-12-26,Centro-Oeste,MS,Casa e Jardim,572.32
+2023-11-26,Sudeste,MG,Eletrônicos,3306.89
+2023-04-13,Sudeste,ES,Alimentos,779.97
+2023-02-12,Norte,TO,Eletrônicos,2368.61
+2023-06-20,Nordeste,PB,Casa e Jardim,3789.64
+2023-10-31,Sul,RS,Casa e Jardim,4303.54
+2023-07-13,Sul,SC,Casa e Jardim,2565.7
+2023-03-30,Norte,AM,Alimentos,4342.76
+2023-04-02,Nordeste,CE,Alimentos,2237.63
+2023-01-05,Norte,RR,Eletrônicos,4618.46
+2023-12-04,Sul,SC,Beleza,2364.98
+2023-12-30,Norte,RO,Eletrônicos,4562.13
+2023-04-18,Sudeste,RJ,Beleza,3023.3
+2023-12-23,Centro-Oeste,MT,Eletrônicos,476.56
+2023-06-08,Nordeste,RN,Vestuário,1739.94
+2023-04-29,Norte,AP,Eletrônicos,2940.44
+2023-01-08,Sul,PR,Casa e Jardim,2022.17
+2023-10-17,Norte,AM,Beleza,4513.86
+2023-08-15,Sul,SC,Beleza,972.96
+2023-08-20,Nordeste,SE,Beleza,308.2
+2023-11-25,Norte,AC,Vestuário,1204.49
+2023-11-25,Sul,SC,Beleza,3415.59
+2023-05-22,Sul,RS,Alimentos,189.58
+2023-08-12,Nordeste,SE,Casa e Jardim,770.04
+2023-10-31,Norte,RR,Vestuário,1362.57
+2023-08-24,Norte,AM,Vestuário,4064.69
+2023-04-10,Norte,AP,Alimentos,3822.31
+2023-08-18,Norte,RR,Casa e Jardim,1580.73
+2023-04-20,Sudeste,SP,Eletrônicos,3417.76
+2023-10-28,Sudeste,ES,Casa e Jardim,4264.66
+2023-05-10,Sul,RS,Beleza,2763.27
+2023-07-25,Sul,PR,Casa e Jardim,3167.9
+2023-03-24,Sudeste,ES,Alimentos,4866.26
+2023-07-31,Norte,TO,Beleza,3645.1
+2023-06-06,Nordeste,CE,Vestuário,1041.02
+2023-01-11,Sul,SC,Beleza,4111.98
+2023-05-12,Sudeste,ES,Casa e Jardim,881.95
+2023-12-22,Sul,RS,Casa e Jardim,4861.81
+2023-08-30,Sul,SC,Alimentos,955.72
+2023-03-19,Sul,RS,Casa e Jardim,656.94
+2023-04-06,Nordeste,RN,Eletrônicos,3403.9
+2023-02-24,Centro-Oeste,MT,Vestuário,3980.57
+2023-05-14,Sul,RS,Vestuário,3623.31
+2023-01-04,Norte,RO,Eletrônicos,2166.6
+2023-04-15,Nordeste,PI,Alimentos,4217.39
+2023-05-29,Norte,AC,Beleza,1639.46
+2023-02-18,Nordeste,RN,Eletrônicos,1334.03
+2023-08-06,Sul,SC,Casa e Jardim,3026.87
+2023-03-14,Centro-Oeste,DF,Vestuário,3197.6
+2023-03-17,Sudeste,RJ,Beleza,3395.89
+2023-06-26,Sul,RS,Casa e Jardim,4266.36
+2023-08-21,Norte,AM,Vestuário,2636.86
+2023-04-13,Sudeste,ES,Eletrônicos,622.49
+2023-07-07,Nordeste,CE,Alimentos,322.42
+2023-03-19,Norte,RO,Alimentos,2725.76
+2023-09-05,Nordeste,PI,Alimentos,2438.33
+2023-10-27,Sul,RS,Vestuário,3622.04
+2023-12-12,Nordeste,AL,Casa e Jardim,4099.58
+2023-07-10,Sudeste,MG,Alimentos,2297.82
+2023-07-09,Sudeste,RJ,Alimentos,1140.11
+2023-02-07,Norte,RO,Vestuário,3781.61
+2023-09-25,Sul,SC,Beleza,3577.14
+2023-02-06,Centro-Oeste,MS,Eletrônicos,1313.2
+2023-10-12,Sul,PR,Casa e Jardim,3432.67
+2023-09-01,Centro-Oeste,MS,Casa e Jardim,3106.52
+2023-01-02,Sul,SC,Vestuário,1210.83
+2023-05-14,Centro-Oeste,DF,Vestuário,1105.73
+2023-03-04,Nordeste,PE,Vestuário,3830.35
+2023-03-19,Sul,PR,Eletrônicos,4872.13
+2023-12-23,Sul,SC,Vestuário,2991.14
+2023-09-14,Norte,AM,Vestuário,4121.36
+2023-01-23,Sudeste,MG,Eletrônicos,4545.69
+2023-03-12,Centro-Oeste,MT,Vestuário,1176.34
+2023-10-16,Sudeste,ES,Beleza,1437.66
+2023-03-13,Sudeste,RJ,Eletrônicos,749.73
+2023-07-25,Norte,AM,Vestuário,4688.65
+2023-09-29,Centro-Oeste,GO,Beleza,885.74
+2023-03-26,Centro-Oeste,MT,Eletrônicos,2959.28
+2023-06-30,Norte,TO,Eletrônicos,4704.34
+2023-03-12,Sul,SC,Beleza,3403.57
+2023-12-08,Sul,PR,Eletrônicos,4340.17
+2023-10-17,Nordeste,PI,Casa e Jardim,156.38
+2023-03-18,Sudeste,ES,Beleza,4845.39
+2023-12-22,Sul,PR,Vestuário,1982.22
+2023-11-23,Norte,RR,Casa e Jardim,1565.4
+2023-12-02,Sul,PR,Vestuário,2686.33
+2023-07-13,Norte,AC,Eletrônicos,657.59
+2023-09-10,Norte,AM,Vestuário,2078.07
+2023-05-28,Nordeste,PE,Casa e Jardim,596.77
+2023-12-07,Sudeste,ES,Eletrônicos,4665.09
+2023-09-16,Nordeste,BA,Casa e Jardim,809.86
+2023-11-17,Nordeste,PE,Beleza,3533.73
+2023-08-17,Norte,AC,Vestuário,4409.49
+2023-07-12,Norte,TO,Vestuário,4047.97
+2023-04-16,Sul,RS,Casa e Jardim,4126.14
+2023-09-09,Centro-Oeste,DF,Alimentos,3907.94
+2023-03-04,Sul,SC,Alimentos,1895.99
+2023-03-17,Norte,TO,Eletrônicos,4231.19
+2023-01-03,Norte,AP,Casa e Jardim,4406.82
+2023-06-21,Norte,AC,Alimentos,2393.04
+2023-10-12,Sudeste,RJ,Eletrônicos,3163.87
+2023-07-17,Nordeste,MA,Casa e Jardim,4773.36
+2023-06-22,Nordeste,PB,Casa e Jardim,4916.83
+2023-01-17,Centro-Oeste,MS,Beleza,4127.48
+2023-08-09,Norte,AC,Beleza,3929.72
+2023-08-02,Sul,PR,Casa e Jardim,2400.41
+2023-07-12,Norte,AC,Vestuário,390.38
+2023-01-10,Nordeste,MA,Eletrônicos,531.85
+2023-02-26,Centro-Oeste,MT,Vestuário,3727.68
+2023-08-27,Sul,PR,Eletrônicos,2911.73
+2023-10-21,Centro-Oeste,MT,Casa e Jardim,4777.52
+2023-10-19,Nordeste,MA,Vestuário,1012.33
+2023-02-18,Sul,RS,Casa e Jardim,4954.85
+2023-04-27,Norte,RO,Vestuário,2221.84
+2023-09-14,Centro-Oeste,MT,Alimentos,788.44
+2023-12-12,Nordeste,AL,Casa e Jardim,3489.78
+2023-12-23,Nordeste,PE,Eletrônicos,1631.68
+2023-04-17,Centro-Oeste,GO,Vestuário,4838.21
+2023-07-26,Nordeste,RN,Beleza,583.88
+2023-02-03,Sul,SC,Casa e Jardim,2266.48
+2023-06-27,Sul,RS,Vestuário,3319.79
+2023-01-19,Nordeste,MA,Beleza,3496.08
+2023-04-08,Norte,TO,Vestuário,364.2
+2023-09-25,Sul,RS,Beleza,3672.23
+2023-10-31,Sudeste,ES,Alimentos,2006.18
+2023-12-30,Sudeste,SP,Beleza,2221.74
+2023-10-25,Nordeste,CE,Vestuário,3249.32
+2023-10-23,Norte,AM,Beleza,475.25
+2023-08-19,Centro-Oeste,MS,Vestuário,429.6
+2023-07-09,Centro-Oeste,DF,Beleza,4952.52
+2023-01-29,Sul,PR,Eletrônicos,2905.91
+2023-06-14,Sudeste,MG,Beleza,2620.05
+2023-01-12,Nordeste,PI,Alimentos,2000.46
+2023-06-18,Norte,AM,Beleza,2944.63
+2023-03-20,Sul,SC,Alimentos,4804.92
+2023-07-26,Norte,AC,Alimentos,3547.35
+2023-06-05,Centro-Oeste,DF,Vestuário,498.55
+2023-06-02,Sul,PR,Vestuário,376.75
+2023-08-05,Sul,SC,Beleza,2454.59
+2023-04-02,Nordeste,SE,Casa e Jardim,730.91
+2023-01-17,Centro-Oeste,MT,Vestuário,4742.19
+2023-07-27,Nordeste,AL,Alimentos,4625.76
+2023-11-30,Nordeste,BA,Vestuário,4148.66
+2023-06-08,Sul,PR,Eletrônicos,3207.78
+2023-06-16,Sul,SC,Beleza,487.55
+2023-10-31,Centro-Oeste,DF,Alimentos,3079.23
+2023-05-03,Sul,RS,Beleza,3187.7
+2023-02-20,Norte,RR,Casa e Jardim,1677.86
+2023-06-13,Norte,AM,Vestuário,2300.82
+2023-07-10,Norte,AM,Alimentos,4034.0
+2023-12-15,Nordeste,RN,Beleza,418.77
+2023-12-08,Sul,SC,Beleza,3192.58
+2023-01-06,Centro-Oeste,MT,Alimentos,324.77
+2023-07-14,Norte,PA,Vestuário,2562.43
+2023-06-10,Centro-Oeste,DF,Alimentos,3493.89
+2023-07-17,Nordeste,PE,Beleza,3538.18
+2023-04-11,Norte,RO,Beleza,4507.21
+2023-08-31,Centro-Oeste,DF,Vestuário,2191.27
+2023-06-30,Nordeste,RN,Casa e Jardim,793.62
+2023-09-26,Norte,AP,Alimentos,4708.51
+2023-11-21,Norte,TO,Vestuário,3053.19
+2023-11-15,Sul,SC,Eletrônicos,3800.89
+2023-05-16,Norte,PA,Beleza,1352.67
+2023-01-14,Sul,PR,Vestuário,1491.5
+2023-09-24,Nordeste,PI,Alimentos,3780.67
+2023-10-29,Sul,SC,Beleza,4714.89
+2023-02-25,Sudeste,RJ,Beleza,1923.54
+2023-11-29,Sul,RS,Vestuário,3794.46
+2023-09-16,Nordeste,MA,Alimentos,3920.19
+2023-11-13,Centro-Oeste,MT,Vestuário,1841.88
+2023-05-21,Nordeste,PE,Eletrônicos,4132.15
+2023-02-02,Nordeste,PB,Casa e Jardim,3328.78
+2023-04-15,Nordeste,CE,Vestuário,1245.74
+2023-02-20,Sul,PR,Alimentos,537.77
+2023-01-28,Norte,PA,Eletrônicos,3624.79
+2023-07-15,Nordeste,SE,Eletrônicos,701.13
+2023-05-31,Nordeste,PI,Casa e Jardim,3781.55
+2023-02-28,Sudeste,SP,Vestuário,2957.08
+2023-08-31,Sudeste,SP,Eletrônicos,1880.98
+2023-12-24,Sul,SC,Vestuário,4707.1
+2023-10-24,Sudeste,ES,Beleza,3555.79
+2023-10-04,Nordeste,SE,Alimentos,4165.37
+2023-02-14,Sudeste,RJ,Casa e Jardim,2228.94
+2023-10-11,Centro-Oeste,GO,Beleza,1201.66
+2023-08-23,Norte,TO,Alimentos,1815.26
+2023-08-15,Norte,AP,Beleza,1811.97
+2023-07-19,Nordeste,PI,Alimentos,496.86
+2023-10-15,Sul,SC,Alimentos,1580.61
+2023-09-22,Nordeste,SE,Alimentos,814.12
+2023-02-23,Centro-Oeste,MS,Casa e Jardim,4539.08
+2023-11-06,Centro-Oeste,GO,Eletrônicos,186.53
+2023-12-24,Sudeste,SP,Beleza,1962.55
+2023-07-29,Sul,PR,Eletrônicos,4251.27
+2023-05-02,Norte,AP,Eletrônicos,4020.14
+2023-03-28,Nordeste,BA,Casa e Jardim,2166.19
+2023-09-02,Norte,AC,Alimentos,3761.85
+2023-09-26,Sul,PR,Alimentos,1865.35
+2023-03-02,Sudeste,RJ,Vestuário,4506.71
+2023-06-14,Norte,RR,Alimentos,4067.27
+2023-12-18,Sudeste,SP,Casa e Jardim,2023.04
+2023-09-19,Norte,RO,Beleza,456.03
+2023-01-18,Centro-Oeste,GO,Vestuário,1484.35
+2023-03-19,Sul,SC,Eletrônicos,1849.13
+2023-09-12,Centro-Oeste,DF,Beleza,415.03
+2023-04-10,Sudeste,ES,Vestuário,3670.99
+2023-11-17,Norte,AP,Eletrônicos,1717.45
+2023-04-05,Nordeste,BA,Alimentos,4262.65
+2023-05-26,Norte,AC,Beleza,2040.33
+2023-03-29,Sudeste,SP,Alimentos,4881.36
+2023-08-30,Norte,TO,Beleza,1440.09
+2023-01-11,Nordeste,PE,Eletrônicos,2157.53
+2023-09-14,Sul,RS,Alimentos,1588.93
+2023-02-11,Nordeste,PI,Alimentos,1320.96
+2023-03-22,Sudeste,ES,Eletrônicos,733.94
+2023-09-03,Sul,SC,Vestuário,3198.64
+2023-03-24,Sudeste,SP,Vestuário,1758.73
+2023-09-25,Norte,RO,Beleza,1654.17
+2023-08-25,Nordeste,CE,Casa e Jardim,2588.11
+2023-04-07,Norte,PA,Alimentos,2610.82
+2023-08-08,Sul,RS,Casa e Jardim,167.94
+2023-05-30,Centro-Oeste,GO,Eletrônicos,596.85
+2023-12-12,Sul,RS,Alimentos,1441.98
+2023-04-10,Centro-Oeste,MT,Casa e Jardim,4961.44
+2023-11-24,Norte,AP,Casa e Jardim,1378.03
+2023-08-03,Sul,RS,Vestuário,466.09
+2023-06-25,Sul,SC,Vestuário,2833.9
+2023-12-20,Centro-Oeste,MT,Eletrônicos,4551.09
+2023-01-21,Sudeste,SP,Alimentos,3276.98
+2023-04-27,Norte,AC,Eletrônicos,4493.48
+2023-04-14,Norte,TO,Casa e Jardim,463.47
+2023-09-01,Sudeste,MG,Vestuário,4736.48
+2023-05-01,Norte,TO,Eletrônicos,196.5
+2023-01-20,Sudeste,RJ,Alimentos,4096.83
+2023-06-22,Sudeste,ES,Eletrônicos,3968.59
+2023-07-21,Sul,PR,Beleza,3907.01
+2023-02-20,Sul,PR,Beleza,559.37
+2023-02-24,Norte,AC,Casa e Jardim,832.07
+2023-04-02,Centro-Oeste,GO,Alimentos,4613.53
+2023-03-15,Centro-Oeste,DF,Vestuário,4198.54
+2023-08-20,Sudeste,RJ,Vestuário,2593.09
+2023-06-04,Sul,RS,Casa e Jardim,1535.87
+2023-09-23,Norte,AP,Casa e Jardim,2169.97
+2023-10-14,Sudeste,MG,Alimentos,1169.77
+2023-05-26,Sudeste,ES,Vestuário,1554.17
+2023-03-07,Nordeste,BA,Vestuário,2186.43
+2023-07-05,Sul,PR,Casa e Jardim,1449.57
+2023-06-05,Centro-Oeste,MT,Alimentos,2813.79
+2023-10-10,Nordeste,RN,Casa e Jardim,987.92
+2023-11-01,Sul,SC,Casa e Jardim,1978.01
+2023-08-25,Sudeste,ES,Eletrônicos,3018.0
+2023-07-18,Norte,AM,Alimentos,252.36
+2023-08-23,Norte,TO,Eletrônicos,1782.86
+2023-06-26,Nordeste,AL,Alimentos,4329.09
+2023-09-15,Sul,PR,Casa e Jardim,4974.21
+2023-10-29,Sudeste,SP,Eletrônicos,4478.96
+2023-04-15,Centro-Oeste,GO,Alimentos,2661.29
+2023-11-14,Centro-Oeste,MS,Alimentos,905.43
+2023-11-27,Sudeste,ES,Eletrônicos,1272.7
+2023-06-10,Sudeste,MG,Vestuário,4170.13
+2023-02-22,Norte,RO,Vestuário,523.12
+2023-01-03,Sul,SC,Alimentos,3655.21
+2023-12-04,Nordeste,PE,Beleza,2329.45
+2023-05-30,Sul,SC,Beleza,3463.36
+2023-12-08,Sul,PR,Eletrônicos,3652.15
+2023-10-25,Nordeste,PB,Casa e Jardim,301.5
+2023-11-05,Sudeste,ES,Beleza,2446.85
+2023-03-30,Centro-Oeste,MS,Eletrônicos,3503.73
+2023-05-11,Nordeste,PI,Alimentos,2091.28
+2023-09-13,Norte,AC,Casa e Jardim,4052.99
+2023-03-13,Nordeste,PB,Vestuário,2466.39
+2023-12-30,Sul,PR,Alimentos,4127.34
+2023-01-27,Nordeste,PI,Eletrônicos,1433.32
+2023-06-28,Sudeste,RJ,Casa e Jardim,3464.61
+2023-07-27,Nordeste,RN,Casa e Jardim,313.17
+2023-07-17,Sudeste,MG,Alimentos,731.35
+2023-06-23,Norte,AM,Vestuário,2297.69
+2023-08-07,Centro-Oeste,MS,Eletrônicos,4985.13
+2023-12-06,Sul,SC,Alimentos,1835.59
+2023-02-13,Norte,AM,Vestuário,3422.98
+2023-06-17,Centro-Oeste,MT,Vestuário,1668.83
+2023-11-07,Nordeste,PI,Vestuário,1296.61
+2023-12-20,Centro-Oeste,MT,Beleza,1792.58
+2023-01-05,Sudeste,SP,Beleza,187.89
+2023-10-22,Sul,SC,Casa e Jardim,4959.35
+2023-03-20,Nordeste,PE,Vestuário,606.54
+2023-01-05,Norte,PA,Casa e Jardim,4030.52
+2023-11-21,Sudeste,MG,Alimentos,2862.26
+2023-06-06,Nordeste,PB,Beleza,1332.1
+2023-11-11,Centro-Oeste,MS,Beleza,4238.12
+2023-09-21,Sul,SC,Alimentos,2184.06
+2023-10-24,Nordeste,RN,Eletrônicos,875.44
+2023-03-25,Sudeste,RJ,Vestuário,4639.33
+2023-09-18,Norte,AM,Casa e Jardim,2055.63
+2023-11-16,Sudeste,ES,Alimentos,3367.8
+2023-11-18,Norte,AP,Casa e Jardim,4726.09
+2023-07-05,Sul,RS,Casa e Jardim,4529.63
+2023-11-25,Sul,PR,Alimentos,1058.37
+2023-10-13,Norte,AC,Eletrônicos,4746.17
+2023-02-27,Nordeste,PI,Casa e Jardim,1492.54
+2023-08-11,Centro-Oeste,DF,Vestuário,3959.93
+2023-12-13,Norte,AM,Beleza,4856.46
+2023-07-29,Sul,SC,Vestuário,4517.39
+2023-12-18,Norte,RO,Casa e Jardim,1469.03
+2023-08-14,Sudeste,RJ,Eletrônicos,4217.1
+2023-05-04,Norte,TO,Alimentos,4944.89
+2023-04-24,Nordeste,BA,Eletrônicos,3628.24
+2023-06-06,Centro-Oeste,MT,Alimentos,4383.69
+2023-08-26,Sul,RS,Beleza,2694.52
+2023-03-13,Sul,RS,Eletrônicos,3371.51
+2023-01-27,Sul,PR,Casa e Jardim,4882.83
+2023-01-10,Sudeste,MG,Vestuário,4640.9
+2023-01-26,Sudeste,MG,Alimentos,1730.13
+2023-03-11,Sudeste,ES,Vestuário,4432.41
+2023-10-22,Sul,PR,Alimentos,3456.69
+2023-02-11,Nordeste,AL,Alimentos,3773.98
+2023-02-21,Sudeste,SP,Casa e Jardim,3628.93
+2023-12-14,Sul,SC,Eletrônicos,3025.68
+2023-04-27,Sul,SC,Alimentos,4190.08
+2023-04-29,Norte,AP,Eletrônicos,472.58
+2023-03-04,Norte,PA,Casa e Jardim,1785.63
+2023-09-15,Sul,SC,Eletrônicos,858.43
+2023-02-07,Centro-Oeste,MS,Eletrônicos,2882.84
+2023-06-30,Sudeste,ES,Eletrônicos,2501.4
+2023-05-06,Sul,SC,Casa e Jardim,1931.61
+2023-05-17,Nordeste,PE,Eletrônicos,2870.79
+2023-05-17,Sul,PR,Eletrônicos,3250.98
+2023-05-14,Sudeste,RJ,Eletrônicos,3327.22
+2023-05-02,Centro-Oeste,GO,Casa e Jardim,3840.06
+2023-12-04,Sudeste,MG,Beleza,4902.68
+2023-02-19,Nordeste,BA,Vestuário,3467.53
+2023-08-14,Nordeste,SE,Eletrônicos,1008.48
+2023-12-19,Norte,RR,Alimentos,788.8
+2023-04-06,Norte,AC,Alimentos,3403.81
+2023-04-10,Nordeste,RN,Beleza,2495.19
+2023-02-08,Norte,PA,Beleza,1146.14
+2023-08-11,Sudeste,RJ,Casa e Jardim,828.3
+2023-02-06,Sul,PR,Vestuário,427.64
+2023-03-09,Nordeste,PE,Alimentos,4299.66
+2023-02-02,Centro-Oeste,MS,Vestuário,4445.38
+2023-12-09,Sul,RS,Eletrônicos,4453.68
+2023-04-13,Sul,SC,Beleza,3759.68
+2023-11-29,Sudeste,RJ,Casa e Jardim,1704.77
+2023-12-23,Centro-Oeste,MT,Vestuário,1082.05
+2023-08-24,Sudeste,ES,Eletrônicos,2128.77
+2023-10-06,Centro-Oeste,DF,Vestuário,4017.03
+2023-11-07,Norte,AP,Beleza,967.87
+2023-07-15,Nordeste,AL,Eletrônicos,4290.5
+2023-10-26,Nordeste,RN,Vestuário,722.29
+2023-04-12,Sul,SC,Vestuário,453.48
+2023-03-02,Sudeste,ES,Eletrônicos,2476.78
+2023-07-05,Sul,RS,Vestuário,1610.79
+2023-03-03,Nordeste,AL,Casa e Jardim,3675.03
+2023-05-29,Sudeste,RJ,Eletrônicos,3192.53
+2023-03-12,Norte,PA,Casa e Jardim,4874.23
+2023-11-01,Sudeste,MG,Beleza,1170.94
+2023-06-27,Norte,AM,Eletrônicos,2604.32
+2023-01-22,Sul,PR,Vestuário,3950.69
+2023-05-09,Sul,RS,Casa e Jardim,3429.97
+2023-12-12,Norte,TO,Eletrônicos,2987.25
+2023-05-02,Centro-Oeste,MS,Eletrônicos,2427.47
+2023-10-24,Sul,PR,Eletrônicos,468.53
+2023-04-26,Norte,AM,Vestuário,1208.74
+2023-05-06,Sul,PR,Eletrônicos,1078.47
+2023-01-15,Norte,AM,Beleza,440.94
+2023-12-04,Sul,PR,Vestuário,2874.78
+2023-06-16,Centro-Oeste,MT,Alimentos,3935.71
+2023-01-01,Norte,RO,Vestuário,1595.94
+2023-06-04,Centro-Oeste,MT,Alimentos,4508.29
+2023-02-27,Centro-Oeste,MS,Alimentos,678.31
+2023-09-28,Norte,RO,Eletrônicos,4513.15
+2023-01-09,Sul,PR,Alimentos,1978.26
+2023-12-04,Sudeste,SP,Alimentos,2125.09
+2023-11-05,Sudeste,ES,Casa e Jardim,1504.24
+2023-07-29,Sudeste,RJ,Vestuário,3199.06
+2023-06-06,Nordeste,CE,Casa e Jardim,3307.52
+2023-04-09,Sudeste,ES,Eletrônicos,1637.94
+2023-02-07,Centro-Oeste,MT,Vestuário,4214.07
+2023-07-03,Norte,AP,Vestuário,4770.02
+2023-10-02,Centro-Oeste,GO,Eletrônicos,2963.31
+2023-06-10,Sul,PR,Eletrônicos,3456.61
+2023-08-17,Sul,PR,Vestuário,4189.27
+2023-08-11,Norte,TO,Casa e Jardim,151.62
+2023-04-30,Sudeste,ES,Casa e Jardim,4877.53
+2023-03-03,Norte,RR,Beleza,3908.77
+2023-04-17,Norte,AC,Alimentos,1524.19
+2023-03-26,Sudeste,RJ,Casa e Jardim,1501.75
+2023-04-22,Norte,TO,Casa e Jardim,260.12
+2023-10-29,Centro-Oeste,MT,Alimentos,2932.61
+2023-10-19,Nordeste,AL,Vestuário,4235.88
+2023-11-21,Sul,PR,Beleza,4902.99
+2023-02-03,Centro-Oeste,MT,Vestuário,4443.21
+2023-08-18,Sudeste,ES,Casa e Jardim,2867.34
+2023-11-02,Nordeste,MA,Vestuário,4149.87
+2023-04-30,Nordeste,CE,Eletrônicos,1206.76
+2023-01-16,Sudeste,MG,Vestuário,2450.59
+2023-08-19,Sul,SC,Vestuário,1435.75
+2023-10-18,Sul,SC,Beleza,4479.41
+2023-01-28,Norte,AM,Vestuário,2456.28
+2023-05-13,Sudeste,ES,Alimentos,464.98
+2023-08-07,Norte,AP,Casa e Jardim,224.07
+2023-12-21,Norte,PA,Alimentos,1727.04
+2023-12-15,Centro-Oeste,DF,Vestuário,2237.31
+2023-02-13,Norte,AM,Vestuário,4501.13
+2023-10-07,Sul,PR,Beleza,2847.35
+2023-10-17,Sul,RS,Vestuário,2819.71
+2023-05-22,Nordeste,SE,Casa e Jardim,1584.2
+2023-02-15,Sudeste,SP,Beleza,2671.21
+2023-09-03,Nordeste,CE,Alimentos,2349.84
+2023-11-24,Norte,AP,Casa e Jardim,2786.02
+2023-02-28,Norte,TO,Eletrônicos,715.5
+2023-06-07,Norte,AP,Eletrônicos,4124.98
+2023-03-26,Sul,SC,Alimentos,1919.17
+2023-06-02,Norte,TO,Vestuário,2400.56
+2023-05-25,Sudeste,ES,Beleza,493.1
+2023-07-29,Centro-Oeste,MT,Vestuário,2085.17
+2023-10-18,Centro-Oeste,MS,Vestuário,1916.75
+2023-12-02,Sul,SC,Casa e Jardim,103.33
+2023-07-13,Sul,RS,Casa e Jardim,2404.67
+2023-04-20,Nordeste,CE,Beleza,2142.46
+2023-09-23,Centro-Oeste,MT,Casa e Jardim,702.06
+2023-03-10,Centro-Oeste,GO,Vestuário,1027.04
+2023-02-08,Sul,RS,Beleza,714.8
+2023-07-23,Centro-Oeste,MS,Vestuário,2471.67
+2023-04-09,Centro-Oeste,DF,Eletrônicos,197.28
+2023-05-26,Centro-Oeste,GO,Beleza,2748.56
+2023-06-10,Centro-Oeste,GO,Alimentos,3448.83
+2023-05-06,Centro-Oeste,MT,Eletrônicos,1650.7
+2023-05-04,Sul,SC,Beleza,2871.58
+2023-12-23,Sul,SC,Beleza,3133.18
+2023-07-07,Sudeste,RJ,Eletrônicos,906.45
+2023-07-26,Sul,SC,Eletrônicos,3715.99
+2023-07-04,Norte,RO,Casa e Jardim,3873.72
+2023-04-24,Centro-Oeste,DF,Vestuário,1975.42
+2023-01-18,Norte,TO,Eletrônicos,4078.32
+2023-05-29,Sul,RS,Vestuário,283.69
+2023-05-25,Sul,RS,Alimentos,3226.18
+2023-07-12,Sudeste,RJ,Vestuário,4097.73
+2023-10-31,Centro-Oeste,MS,Beleza,863.54
+2023-09-15,Centro-Oeste,MS,Beleza,3061.32
+2023-03-02,Sudeste,SP,Vestuário,3178.91
+2023-02-01,Norte,AP,Vestuário,2835.49
+2023-03-31,Nordeste,CE,Beleza,917.43
+2023-11-12,Nordeste,PI,Casa e Jardim,2907.15
+2023-07-28,Sudeste,SP,Eletrônicos,4010.68
+2023-03-23,Sul,SC,Casa e Jardim,2536.73
+2023-04-30,Nordeste,SE,Casa e Jardim,1242.79
+2023-05-20,Centro-Oeste,MS,Alimentos,4223.36
+2023-07-20,Centro-Oeste,GO,Casa e Jardim,2556.72
+2023-03-30,Centro-Oeste,DF,Casa e Jardim,4624.33
+2023-11-03,Centro-Oeste,DF,Casa e Jardim,2073.58
+2023-04-17,Norte,RR,Vestuário,2976.04
+2023-12-22,Nordeste,RN,Eletrônicos,3144.97
+2023-01-18,Norte,RR,Eletrônicos,770.1
+2023-05-23,Nordeste,PB,Alimentos,3768.46
+2023-02-14,Centro-Oeste,GO,Casa e Jardim,4712.8
+2023-01-22,Sudeste,ES,Alimentos,3308.83
+2023-04-07,Sul,RS,Vestuário,2346.86
+2023-07-08,Sul,PR,Casa e Jardim,832.64
+2023-05-13,Sul,RS,Alimentos,4846.5
+2023-10-24,Nordeste,SE,Beleza,4485.39
+2023-07-09,Norte,RR,Casa e Jardim,3380.29
+2023-06-01,Norte,AP,Alimentos,905.98
+2023-01-15,Nordeste,BA,Vestuário,4860.95
+2023-08-31,Centro-Oeste,GO,Casa e Jardim,2843.56
+2023-03-25,Norte,PA,Eletrônicos,1176.94
+2023-02-14,Centro-Oeste,MT,Eletrônicos,2978.83
+2023-06-23,Norte,AC,Casa e Jardim,1158.0
+2023-08-20,Sul,RS,Alimentos,1287.04
+2023-11-15,Norte,AC,Beleza,1254.21
+2023-10-31,Norte,AC,Casa e Jardim,2687.4
+2023-09-12,Sul,PR,Vestuário,4032.34
+2023-07-28,Norte,AP,Casa e Jardim,3772.43
+2023-09-23,Norte,AC,Casa e Jardim,3688.29
+2023-09-27,Sul,PR,Beleza,835.49
+2023-01-29,Centro-Oeste,MT,Alimentos,4369.77
+2023-12-17,Centro-Oeste,MS,Casa e Jardim,3217.15
+2023-12-10,Sudeste,MG,Beleza,897.01
+2023-11-28,Nordeste,CE,Casa e Jardim,1636.84
+2023-05-28,Sudeste,RJ,Beleza,1206.81
+2023-11-08,Sudeste,SP,Vestuário,3496.98
+2023-04-26,Norte,TO,Alimentos,408.37
+2023-12-22,Sul,RS,Alimentos,2823.46
+2023-08-24,Norte,RO,Beleza,3270.92
+2023-07-24,Centro-Oeste,DF,Casa e Jardim,4132.55
+2023-06-22,Norte,RO,Eletrônicos,1658.58
+2023-04-12,Sul,RS,Vestuário,4287.17
+2023-08-02,Centro-Oeste,MS,Alimentos,1795.42
+2023-02-26,Sul,SC,Eletrônicos,4569.89
+2023-08-13,Norte,PA,Beleza,3451.1
+2023-06-14,Sul,RS,Alimentos,3994.92
+2023-12-05,Sudeste,RJ,Beleza,3730.68
+2023-03-22,Nordeste,SE,Vestuário,1581.73
+2023-01-26,Sudeste,RJ,Eletrônicos,109.11
+2023-11-23,Sul,PR,Casa e Jardim,961.81
+2023-05-24,Nordeste,CE,Eletrônicos,2312.1
+2023-04-08,Sudeste,SP,Alimentos,2207.38
+2023-05-16,Norte,AP,Vestuário,2222.77
+2023-02-15,Centro-Oeste,DF,Vestuário,1162.41
+2023-10-04,Centro-Oeste,MT,Alimentos,3035.95
+2023-12-11,Sudeste,ES,Alimentos,4870.33
+2023-12-26,Nordeste,AL,Eletrônicos,2253.34
+2023-03-23,Sudeste,ES,Alimentos,4868.52
+2023-06-08,Nordeste,CE,Beleza,365.62
+2023-07-06,Centro-Oeste,MS,Casa e Jardim,314.87
+2023-01-15,Centro-Oeste,MS,Eletrônicos,2521.33
+2023-10-03,Norte,AC,Vestuário,1906.95
+2023-11-27,Norte,AM,Vestuário,911.73
+2023-05-09,Centro-Oeste,MT,Casa e Jardim,1439.34
+2023-09-27,Sudeste,SP,Vestuário,1402.53
+2023-02-03,Sul,SC,Beleza,4926.59
+2023-10-14,Sul,SC,Vestuário,2495.56
+2023-09-07,Sudeste,MG,Eletrônicos,4946.99
+2023-10-07,Nordeste,AL,Eletrônicos,756.04
+2023-11-29,Sudeste,MG,Beleza,2626.94
+2023-04-19,Norte,AM,Casa e Jardim,4544.73
+2023-08-02,Norte,TO,Casa e Jardim,1250.73
+2023-11-02,Norte,RO,Casa e Jardim,2517.98
+2023-01-04,Nordeste,BA,Beleza,3075.81
+2023-05-21,Sudeste,SP,Beleza,4598.13
+2023-01-11,Sudeste,SP,Eletrônicos,4962.77
+2023-12-07,Sul,RS,Alimentos,1397.47
+2023-05-24,Sudeste,ES,Alimentos,4967.82
+2023-08-18,Norte,RO,Alimentos,3592.15
+2023-04-19,Centro-Oeste,MT,Casa e Jardim,4561.97
+2023-05-27,Sul,PR,Alimentos,2367.6
+2023-02-10,Sul,SC,Eletrônicos,2544.42
+2023-01-05,Sul,SC,Alimentos,638.1
+2023-02-10,Centro-Oeste,MT,Alimentos,2033.07
+2023-01-17,Sul,PR,Alimentos,3025.34
+2023-04-06,Norte,PA,Alimentos,2311.11
+2023-03-13,Nordeste,AL,Vestuário,4246.46
+2023-03-15,Sul,PR,Vestuário,3589.06
+2023-10-28,Sul,RS,Alimentos,1469.97
+2023-12-22,Nordeste,RN,Vestuário,4918.69
+2023-12-23,Nordeste,RN,Alimentos,4532.65
+2023-11-20,Centro-Oeste,MT,Vestuário,2598.66
+2023-10-07,Norte,TO,Beleza,752.61
+2023-03-10,Centro-Oeste,DF,Eletrônicos,307.52
+2023-12-02,Nordeste,MA,Alimentos,1254.88
+2023-05-24,Nordeste,RN,Casa e Jardim,984.03
+2023-09-09,Nordeste,CE,Beleza,618.62
+2023-12-09,Nordeste,BA,Eletrônicos,905.69
+2023-01-09,Nordeste,MA,Eletrônicos,1546.34
+2023-08-18,Nordeste,CE,Vestuário,4136.92
+2023-07-18,Centro-Oeste,MT,Beleza,3001.81
+2023-02-19,Sul,RS,Beleza,2506.33
+2023-07-29,Norte,RO,Beleza,4761.01
+2023-01-12,Sul,SC,Eletrônicos,2501.42
+2023-09-11,Sul,RS,Alimentos,1866.52
+2023-05-11,Sudeste,SP,Casa e Jardim,4010.15
+2023-08-23,Sudeste,MG,Casa e Jardim,1325.9
+2023-07-30,Sudeste,SP,Vestuário,2559.4
+2023-10-07,Nordeste,PI,Alimentos,429.17
+2023-09-23,Nordeste,AL,Eletrônicos,4373.74
+2023-09-20,Sudeste,RJ,Alimentos,4818.94
+2023-03-22,Sudeste,MG,Vestuário,160.27
+2023-03-08,Centro-Oeste,MS,Casa e Jardim,3417.32
+2023-08-27,Sudeste,MG,Beleza,3097.76
+2023-08-14,Sul,SC,Alimentos,495.75
+2023-08-14,Nordeste,MA,Alimentos,4580.89
+2023-04-11,Sul,SC,Beleza,3117.52
+2023-06-28,Nordeste,PB,Beleza,4339.63
+2023-09-06,Norte,TO,Eletrônicos,4563.14
+2023-04-12,Norte,RR,Vestuário,2379.05
+2023-06-06,Centro-Oeste,DF,Vestuário,3519.47
+2023-11-26,Sul,RS,Beleza,2854.18
+2023-07-24,Centro-Oeste,MS,Vestuário,4585.81
+2023-09-02,Sul,SC,Casa e Jardim,1274.32
+2023-08-12,Centro-Oeste,MT,Eletrônicos,2857.65
+2023-06-06,Sudeste,MG,Eletrônicos,3426.06
+2023-03-11,Sudeste,RJ,Vestuário,1140.74
+2023-07-12,Sul,PR,Beleza,4002.21
+2023-11-25,Sul,RS,Casa e Jardim,934.65
+2023-04-23,Norte,AP,Beleza,2922.18
+2023-09-09,Nordeste,BA,Alimentos,133.18
+2023-07-30,Centro-Oeste,MT,Casa e Jardim,3427.17
+2023-08-26,Centro-Oeste,MS,Eletrônicos,1843.14
+2023-08-14,Norte,RO,Beleza,3823.05
+2023-10-28,Nordeste,RN,Vestuário,1883.23
+2023-08-20,Sudeste,SP,Vestuário,4800.94
+2023-07-18,Norte,RR,Alimentos,877.32
+2023-05-10,Norte,PA,Beleza,2853.37
+2023-02-27,Centro-Oeste,DF,Alimentos,4326.64
+2023-06-23,Sudeste,MG,Alimentos,4269.55
+2023-04-22,Norte,PA,Vestuário,2320.83
+2023-01-28,Centro-Oeste,MS,Alimentos,475.62
+2023-07-23,Centro-Oeste,DF,Alimentos,475.27
+2023-12-02,Nordeste,BA,Vestuário,4554.86
+2023-03-20,Sudeste,RJ,Beleza,3013.07
+2023-04-11,Nordeste,BA,Casa e Jardim,3307.53
+2023-03-26,Sudeste,MG,Beleza,2519.9
+2023-01-21,Sul,SC,Vestuário,3382.29
+2023-07-21,Centro-Oeste,GO,Eletrônicos,4349.07
+2023-10-26,Nordeste,CE,Beleza,2898.93
+2023-06-23,Sudeste,MG,Casa e Jardim,3081.67
+2023-01-17,Centro-Oeste,DF,Eletrônicos,1625.77
+2023-03-06,Sul,RS,Alimentos,4958.99
+2023-04-28,Sudeste,SP,Eletrônicos,2549.21
+2023-02-18,Sul,PR,Beleza,4880.63
+2023-11-23,Nordeste,AL,Alimentos,1545.44
+2023-10-14,Sul,SC,Eletrônicos,1771.53
+2023-05-14,Centro-Oeste,MS,Eletrônicos,2612.84
+2023-05-14,Centro-Oeste,GO,Alimentos,4090.17
+2023-03-19,Centro-Oeste,MT,Vestuário,808.46
+2023-05-23,Centro-Oeste,DF,Alimentos,4645.09
+2023-03-17,Centro-Oeste,GO,Eletrônicos,795.94
+2023-05-20,Norte,RR,Vestuário,2750.65
+2023-07-14,Centro-Oeste,GO,Vestuário,4076.55
+2023-09-16,Norte,PA,Eletrônicos,1149.02
+2023-05-17,Centro-Oeste,MT,Alimentos,3593.12
+2023-02-02,Norte,RO,Beleza,291.0
+2023-09-15,Norte,PA,Alimentos,3553.46
+2023-12-26,Nordeste,RN,Eletrônicos,2202.96
+2023-04-15,Nordeste,SE,Casa e Jardim,2740.61
+2023-05-06,Norte,PA,Eletrônicos,4311.49
+2023-11-23,Norte,RO,Beleza,907.64
+2023-08-18,Norte,PA,Eletrônicos,2901.53
+2023-05-06,Centro-Oeste,MT,Beleza,3478.1
+2023-11-03,Nordeste,MA,Eletrônicos,1344.84
+2023-07-03,Centro-Oeste,GO,Eletrônicos,1302.03
+2023-02-25,Nordeste,CE,Alimentos,3669.35
+2023-11-20,Sudeste,RJ,Vestuário,3956.82
+2023-08-17,Sul,PR,Alimentos,3134.08
+2023-02-15,Sudeste,MG,Alimentos,2061.64
+2023-01-16,Sudeste,MG,Alimentos,3875.78
+2023-06-30,Sul,SC,Beleza,3019.44
+2023-11-08,Norte,RO,Vestuário,2805.62
+2023-11-09,Norte,PA,Alimentos,1557.81
+2023-10-10,Nordeste,PB,Vestuário,3154.13
+2023-05-23,Norte,RR,Casa e Jardim,1809.35
+2023-07-13,Sudeste,ES,Alimentos,3973.99
+2023-04-12,Nordeste,CE,Alimentos,3619.32
+2023-05-30,Centro-Oeste,MT,Eletrônicos,4474.09
+2023-07-03,Sudeste,ES,Casa e Jardim,2351.04
+2023-05-17,Nordeste,AL,Beleza,1739.27
+2023-09-15,Norte,RR,Vestuário,1342.11
+2023-12-10,Sul,PR,Vestuário,4091.85
+2023-02-06,Sudeste,SP,Eletrônicos,1808.57
+2023-07-13,Centro-Oeste,GO,Alimentos,4892.88
+2023-07-07,Sudeste,MG,Alimentos,1346.31
+2023-01-01,Nordeste,CE,Vestuário,3003.24
+2023-03-01,Norte,AM,Casa e Jardim,4074.56
+2023-09-10,Nordeste,PE,Beleza,1908.47
+2023-07-14,Centro-Oeste,MS,Alimentos,3995.92
+2023-01-19,Sul,PR,Eletrônicos,2966.92
+2023-02-17,Sul,SC,Eletrônicos,2980.06
+2023-11-03,Norte,RO,Alimentos,2538.16
+2023-08-31,Nordeste,PB,Vestuário,3747.12
+2023-10-20,Nordeste,MA,Alimentos,1792.66
+2023-01-13,Norte,RO,Alimentos,1183.27
+2023-04-30,Sudeste,SP,Alimentos,3300.89
+2023-05-04,Nordeste,MA,Casa e Jardim,1063.18
+2023-11-27,Nordeste,PI,Eletrônicos,633.86
+2023-02-03,Centro-Oeste,DF,Alimentos,3846.11
+2023-03-21,Nordeste,PE,Casa e Jardim,3369.39
+2023-04-05,Sudeste,ES,Alimentos,3135.8
+2023-11-27,Sudeste,ES,Eletrônicos,1367.87
+2023-01-03,Sudeste,MG,Eletrônicos,4525.89
+2023-07-12,Sudeste,RJ,Casa e Jardim,3998.03
+2023-08-01,Sudeste,ES,Eletrônicos,3399.59
+2023-12-26,Sudeste,SP,Vestuário,2835.01
+2023-06-12,Norte,RO,Beleza,3411.39
+2023-12-15,Centro-Oeste,MS,Beleza,1337.02
+2023-11-30,Centro-Oeste,GO,Vestuário,925.77
+2023-03-01,Norte,TO,Alimentos,2569.21
+2023-05-06,Sudeste,MG,Vestuário,4537.61
+2023-04-27,Norte,RR,Casa e Jardim,4387.9
+2023-03-11,Sul,RS,Alimentos,3530.81
+2023-04-30,Centro-Oeste,MT,Eletrônicos,356.19
+2023-01-07,Sudeste,SP,Casa e Jardim,2783.61
+2023-09-06,Nordeste,CE,Alimentos,3548.32
+2023-10-14,Nordeste,AL,Beleza,2273.72
+2023-08-16,Centro-Oeste,MS,Alimentos,3524.6
+2023-04-29,Centro-Oeste,MS,Alimentos,3215.09
+2023-11-15,Sudeste,RJ,Vestuário,1389.9
+2023-06-20,Sul,SC,Beleza,317.83
+2023-03-01,Centro-Oeste,MT,Beleza,143.36
+2023-10-27,Norte,RO,Eletrônicos,3687.92
+2023-06-10,Norte,PA,Casa e Jardim,3313.88
+2023-05-19,Nordeste,PI,Eletrônicos,3325.15
+2023-04-07,Sudeste,SP,Eletrônicos,3272.6
+2023-05-03,Sul,PR,Beleza,3148.71
+2023-01-19,Sudeste,RJ,Eletrônicos,1020.4
+2023-04-21,Centro-Oeste,DF,Casa e Jardim,4442.32
+2023-03-09,Nordeste,RN,Casa e Jardim,2892.92
+2023-11-10,Norte,TO,Alimentos,4895.76
+2023-10-03,Sudeste,ES,Eletrônicos,3800.19
+2023-08-18,Centro-Oeste,DF,Vestuário,938.21
+2023-05-14,Nordeste,PB,Alimentos,2049.49
+2023-01-15,Sudeste,RJ,Casa e Jardim,2369.0
+2023-01-10,Sudeste,RJ,Alimentos,3837.08
+2023-02-17,Centro-Oeste,GO,Vestuário,3932.31
+2023-04-02,Nordeste,CE,Eletrônicos,3344.51
+2023-04-07,Nordeste,SE,Beleza,1513.32
+2023-04-03,Norte,RO,Casa e Jardim,2083.39
+2023-01-14,Nordeste,BA,Vestuário,2183.32
+2023-07-10,Norte,AC,Alimentos,4038.82
+2023-05-10,Sul,PR,Beleza,4921.78
+2023-09-21,Sul,RS,Vestuário,3543.54
+2023-02-05,Centro-Oeste,DF,Vestuário,4876.97
+2023-03-01,Centro-Oeste,MS,Beleza,2049.77
+2023-11-11,Nordeste,CE,Alimentos,3592.27
+2023-04-22,Sul,SC,Vestuário,1707.48
+2023-01-07,Sudeste,ES,Casa e Jardim,2394.57
+2023-11-06,Sudeste,MG,Eletrônicos,4908.68
+2023-02-08,Sudeste,SP,Beleza,2802.17
+2023-02-03,Centro-Oeste,MT,Casa e Jardim,140.45
+2023-01-13,Norte,PA,Alimentos,398.64
+2023-12-11,Norte,TO,Alimentos,1084.55
+2023-12-12,Centro-Oeste,DF,Casa e Jardim,3246.08
+2023-02-23,Sudeste,ES,Alimentos,3084.03
+2023-11-06,Centro-Oeste,DF,Beleza,4987.05
+2023-04-13,Centro-Oeste,MS,Vestuário,4985.37
+2023-04-17,Sudeste,ES,Beleza,3397.8
+2023-09-20,Sul,RS,Eletrônicos,2706.62
+2023-01-09,Sul,SC,Beleza,759.39
+2023-07-01,Centro-Oeste,DF,Alimentos,4880.07
+2023-02-03,Norte,PA,Alimentos,2683.93
+2023-11-08,Sudeste,RJ,Vestuário,2336.7
+2023-01-08,Sudeste,SP,Beleza,2501.09
+2023-04-12,Sudeste,SP,Beleza,4685.72
+2023-09-20,Nordeste,SE,Eletrônicos,4197.49
+2023-12-09,Nordeste,PI,Beleza,1097.99
+2023-08-24,Sudeste,SP,Beleza,427.88
+2023-07-12,Sul,RS,Beleza,4606.18
+2023-06-19,Centro-Oeste,MT,Eletrônicos,4911.69
+2023-01-23,Sudeste,SP,Beleza,2155.12
+2023-05-05,Nordeste,MA,Vestuário,125.51
+2023-08-17,Sudeste,MG,Casa e Jardim,211.68
+2023-03-20,Nordeste,RN,Beleza,1460.43
+2023-02-02,Nordeste,PB,Vestuário,3938.1
+2023-08-31,Sul,SC,Alimentos,2052.09
+2023-01-20,Sul,SC,Alimentos,4512.39
+2023-07-23,Sul,PR,Eletrônicos,1161.13
+2023-06-03,Nordeste,CE,Vestuário,3915.0
+2023-05-22,Sul,SC,Eletrônicos,381.67
+2023-10-02,Norte,RO,Casa e Jardim,3908.59
+2023-12-13,Sul,PR,Alimentos,4102.77
+2023-08-25,Norte,TO,Vestuário,3056.66
+2023-02-02,Nordeste,RN,Eletrônicos,874.7
+2023-12-17,Nordeste,PI,Beleza,1072.69
+2023-05-19,Norte,AM,Alimentos,631.17
+2023-08-31,Sudeste,MG,Casa e Jardim,400.92
+2023-07-08,Sul,SC,Eletrônicos,2735.87
+2023-02-23,Nordeste,AL,Vestuário,4761.58
+2023-02-08,Centro-Oeste,MS,Casa e Jardim,2302.51
+2023-11-26,Sudeste,MG,Alimentos,4936.45
+2023-02-07,Centro-Oeste,MS,Casa e Jardim,4722.66
+2023-05-24,Nordeste,RN,Casa e Jardim,2356.46
+2023-09-26,Nordeste,BA,Vestuário,127.11
+2023-08-05,Norte,AC,Casa e Jardim,1355.13
+2023-05-20,Sul,RS,Alimentos,2039.65
+2023-03-11,Norte,AC,Vestuário,2095.74
+2023-08-28,Sudeste,SP,Alimentos,1139.25
+2023-06-23,Centro-Oeste,DF,Alimentos,2067.22
+2023-10-21,Centro-Oeste,GO,Alimentos,1787.17
+2023-05-01,Centro-Oeste,MT,Alimentos,2591.43
+2023-08-12,Norte,AM,Vestuário,3828.62
+2023-03-25,Sul,SC,Alimentos,4171.71
+2023-12-22,Norte,AC,Eletrônicos,3045.53
+2023-02-25,Norte,RO,Eletrônicos,4207.04
+2023-07-01,Nordeste,PI,Casa e Jardim,1685.45
+2023-05-13,Nordeste,SE,Vestuário,3031.85
+2023-07-03,Nordeste,SE,Alimentos,1720.17
+2023-11-21,Nordeste,BA,Beleza,2649.36
+2023-08-23,Nordeste,PE,Beleza,3053.01
+2023-10-24,Sudeste,RJ,Beleza,1419.08
+2023-10-24,Sudeste,SP,Casa e Jardim,4569.26
+2023-06-17,Nordeste,SE,Vestuário,2012.0
+2023-04-27,Sudeste,ES,Vestuário,3163.21
+2023-05-13,Nordeste,PI,Vestuário,1266.0
+2023-07-01,Nordeste,PE,Casa e Jardim,247.6
+2023-10-28,Sul,PR,Eletrônicos,1890.0
+2023-08-28,Nordeste,RN,Casa e Jardim,1740.64
+2023-03-06,Sul,SC,Alimentos,4796.83
+2023-12-23,Nordeste,PB,Alimentos,3078.97
+2023-12-29,Norte,PA,Beleza,2826.81
+2023-04-06,Sudeste,SP,Eletrônicos,3235.54
+2023-09-27,Sul,PR,Alimentos,3626.33
+2023-02-22,Sul,PR,Vestuário,1674.36
+2023-12-18,Sul,RS,Eletrônicos,1332.41
+2023-08-04,Sul,PR,Eletrônicos,785.4
+2023-01-16,Centro-Oeste,MT,Alimentos,4855.14
+2023-09-16,Nordeste,SE,Casa e Jardim,1149.51
+2023-05-25,Nordeste,RN,Casa e Jardim,635.36
+2023-03-03,Nordeste,MA,Eletrônicos,824.78
+2023-07-14,Centro-Oeste,MT,Alimentos,1247.76
+2023-07-09,Norte,AM,Beleza,733.82
+2023-04-21,Sul,SC,Alimentos,2468.79
+2023-10-20,Norte,AC,Alimentos,2148.06
+2023-04-13,Sul,PR,Beleza,1203.41
+2023-07-30,Sul,SC,Beleza,704.91
+2023-06-22,Sudeste,ES,Vestuário,3767.15
+2023-07-17,Sudeste,MG,Vestuário,1021.82
+2023-08-07,Nordeste,PB,Beleza,2348.37
+2023-05-25,Sul,SC,Alimentos,4894.67
+2023-01-30,Centro-Oeste,DF,Alimentos,3240.03
+2023-02-13,Nordeste,PE,Casa e Jardim,3234.81
+2023-02-06,Norte,AP,Casa e Jardim,1232.72
+2023-04-20,Nordeste,SE,Beleza,2736.51
+2023-07-11,Sul,SC,Casa e Jardim,4210.11
+2023-10-31,Sul,RS,Alimentos,171.79
+2023-02-13,Sul,RS,Casa e Jardim,3215.25
+2023-05-22,Nordeste,RN,Eletrônicos,841.58
+2023-07-02,Centro-Oeste,MS,Alimentos,2989.87
+2023-07-21,Centro-Oeste,GO,Casa e Jardim,973.17
+2023-03-25,Nordeste,SE,Vestuário,3541.99
+2023-07-17,Sul,RS,Beleza,4153.68
+2023-09-29,Nordeste,BA,Vestuário,656.76
+2023-11-13,Nordeste,PE,Vestuário,525.9
+2023-01-16,Sul,SC,Vestuário,1680.17
+2023-12-26,Nordeste,RN,Casa e Jardim,2834.9
+2023-04-20,Centro-Oeste,MT,Vestuário,3110.76
+2023-06-10,Sudeste,ES,Eletrônicos,4569.35
+2023-07-15,Nordeste,CE,Vestuário,1135.3
+2023-12-06,Norte,AM,Alimentos,2507.35
+2023-10-07,Nordeste,PB,Eletrônicos,3251.45
+2023-03-22,Norte,AC,Vestuário,3196.3
+2023-02-11,Nordeste,PI,Casa e Jardim,1728.25
+2023-07-12,Norte,AC,Vestuário,3143.31
+2023-03-05,Norte,AM,Vestuário,479.99
+2023-12-21,Nordeste,RN,Alimentos,3540.97
+2023-02-01,Sul,RS,Beleza,2711.61
+2023-07-02,Centro-Oeste,MS,Vestuário,3134.59
+2023-06-14,Nordeste,PB,Beleza,3542.34
+2023-09-10,Sul,SC,Vestuário,1314.93
+2023-04-02,Sul,RS,Vestuário,4822.34
+2023-08-11,Nordeste,RN,Vestuário,3465.37
+2023-07-03,Sudeste,ES,Vestuário,372.03
+2023-09-04,Norte,RO,Casa e Jardim,3416.04
+2023-12-28,Centro-Oeste,GO,Casa e Jardim,3568.08
+2023-06-18,Norte,RO,Beleza,910.89
+2023-12-22,Sudeste,ES,Casa e Jardim,2253.11
+2023-01-14,Sul,PR,Eletrônicos,496.11
+2023-12-24,Norte,AC,Vestuário,2269.76
+2023-11-27,Centro-Oeste,GO,Beleza,271.5
+2023-08-08,Sul,PR,Beleza,3540.25
+2023-07-27,Sul,PR,Casa e Jardim,4833.81
+2023-04-03,Sudeste,SP,Alimentos,4912.46
+2023-08-17,Nordeste,PE,Beleza,245.43
+2023-06-08,Norte,TO,Casa e Jardim,1962.85
+2023-09-24,Norte,RO,Alimentos,2298.18
+2023-10-26,Nordeste,AL,Beleza,3534.99
+2023-01-15,Centro-Oeste,MS,Vestuário,3731.85
+2023-01-02,Sudeste,SP,Beleza,3985.96
+2023-03-22,Sudeste,ES,Casa e Jardim,1925.42
+2023-11-25,Sudeste,ES,Vestuário,4153.24
+2023-05-05,Sul,SC,Beleza,2848.95
+2023-07-22,Sudeste,ES,Vestuário,3942.61
+2023-02-11,Sul,PR,Casa e Jardim,3029.51
+2023-02-10,Norte,AP,Alimentos,2108.49
